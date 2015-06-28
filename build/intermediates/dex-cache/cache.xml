@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\github\DianPing-Client\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="D:\github\DianPing-Client\app\build\intermediates\pre-dexed\debug\classes-4ecb552200c3a9124cea2bf2c26e4af9a1f091bb.jar" />
+    </item>
+    <item
+        jar="D:\github\DianPing-Client\app\libs\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\github\DianPing-Client\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-6380d7a341f493d2153391780b20af07dd1b1696.jar" />
+    </item>
+    <item
+        jar="D:\github\DianPing-Client\app\libs\okhttp-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="D:\github\DianPing-Client\app\build\intermediates\pre-dexed\debug\okhttp-2.4.0-bf3ac5ddbef7465969e7b5746b104391ac236c8a.jar" />
+    </item>
+    <item
+        jar="D:\github\DianPing-Client\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="D:\github\DianPing-Client\app\build\intermediates\pre-dexed\debug\classes-744518cefd63a24c27c974e8c77e3857fed93587.jar" />
+    </item>
+    <item
+        jar="D:\github\DianPing-Client\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="D:\github\DianPing-Client\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-d7f19e0d72c3ca9906c08830eccef6ddbe092080.jar" />
+    </item>
+    <item
+        jar="D:\github\DianPing-Client\app\libs\xUtils-2.6.14.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="D:\github\DianPing-Client\app\build\intermediates\pre-dexed\debug\xUtils-2.6.14-6fecc99e9d6887d31ead48e79a8d3e8c03e40be4.jar" />
+    </item>
+    <item
+        jar="D:\Android\adt-bundle-windows-x86_64-20140702\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="D:\github\DianPing-Client\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-b00618fff744da72a44995fee2f53e8106c4227c.jar" />
+    </item>
+
+</items>
