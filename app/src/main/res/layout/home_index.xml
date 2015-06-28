@@ -1,13 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent" android:layout_height="match_parent">
-    <TextView
+    <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="首页"
-        android:padding="@dimen/normal_space"
-        android:textSize="@dimen/title_text_size"
-        android:background="@color/white"
-        android:gravity="center_horizontal"/>
+        android:background="@color/normal_orange_color">
+        <TextView
+            android:id="@+id/index_top_city"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:drawableLeft="@drawable/home_ico_city"
+            android:drawablePadding="@dimen/littel_space"
+            android:textColor="@color/white"
+            android:text="选择城市"
+            android:padding="10dp"
+        />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="首页"
+            android:padding="@dimen/normal_space"
+            android:textSize="@dimen/title_text_size"
+            android:background="@color/white"
+            />
+    </RelativeLayout>
+
 
 </LinearLayout>
