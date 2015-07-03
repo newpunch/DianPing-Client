@@ -3,8 +3,6 @@ package com.newpunch.wo.dianping_client;
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
-import android.os.Handler;
-import android.os.Message;
 
 import com.newpunch.dianping_client.utils.ShareUtils;
 
